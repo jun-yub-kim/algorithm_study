@@ -13,8 +13,10 @@
   	strcpy(s, tmp.c_str()); //array s에 string tmp를 옮겨 넣는다.
   
  - 띄어쓰기가 있는 string을 하나의 string으로 만들기
-    string tmp;
-		getline(cin, tmp);
+    
+	string tmp;
+    
+	getline(cin, tmp);
     
   
   
