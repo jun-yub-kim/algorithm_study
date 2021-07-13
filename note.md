@@ -11,3 +11,10 @@
 - string 의 array화
   
   	strcpy(s, tmp.c_str()); //array s에 string tmp를 옮겨 넣는다.
+  
+  
+  //아직 못푼 문제들
+https://www.acmicpc.net/problem/1547 공
+https://www.acmicpc.net/problem/9093  단어 뒤집기
+https://www.acmicpc.net/problem/3059  등장하지 않는 문자의 합
+https://www.acmicpc.net/problem/1357  뒤집힌 덧셈
