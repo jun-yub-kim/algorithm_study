@@ -17,6 +17,11 @@
 	string tmp;
     
 	getline(cin, tmp);
+	
+- header file <algorithm> 사용하기
+	string 의 reverse화가 가능
+	- string tmp = "alpha";
+	- reverse(tmp.begin(), tmp.end());
     
   
   
