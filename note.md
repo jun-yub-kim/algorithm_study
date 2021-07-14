@@ -30,3 +30,5 @@ https://www.acmicpc.net/problem/1547 공
 https://www.acmicpc.net/problem/9093  단어 뒤집기
 https://www.acmicpc.net/problem/3059  등장하지 않는 문자의 합
 https://www.acmicpc.net/problem/1357  뒤집힌 덧셈
+연속구간
+가장 많은 글자 (입력을 못넣겟음)
