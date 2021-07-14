@@ -1,5 +1,6 @@
 - 아스키코드표
-- https://user-images.githubusercontent.com/81306023/125579200-83769c7c-a90e-4216-ad83-4619523de0b6.png
+![아스키코드](https://user-images.githubusercontent.com/81306023/125579200-83769c7c-a90e-4216-ad83-4619523de0b6.png)
+
 
 - #include <algorithm> 이용하면 최대,최솟값 쉽게 도출 가능
   
