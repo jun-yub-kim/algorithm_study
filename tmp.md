@@ -15,3 +15,4 @@
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/10905.cpp)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/10906.cpp)
 
+d
