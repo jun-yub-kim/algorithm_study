@@ -8,6 +8,7 @@
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/2444.cpp)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/2445.cpp)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/2446.cpp)
+여기까지가 2446(별찍기9)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/10900.cpp)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/10901.cpp)
 [code](https://github.com/jun-yub-kim/algorithm_study/blob/main/10902.cpp)
