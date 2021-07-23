@@ -26,6 +26,11 @@
 	string 의 reverse화가 가능
 	- string tmp = "alpha";
 	- reverse(tmp.begin(), tmp.end());
+	
+- if문 간단하게 사용하기
+	'조건문' ? '조건문이 맞을시 실행될 명령문' : '조건문이 틀릴시 실행될 명령문'
+	ex)
+	int b > int a? cout << "b가 a보다 크다" : "b가 a보다 작다"
     
   
   
