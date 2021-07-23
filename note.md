@@ -31,6 +31,11 @@
 	'조건문' ? '조건문이 맞을시 실행될 명령문' : '조건문이 틀릴시 실행될 명령문'
 	ex)
 	int b > int a? cout << "b가 a보다 크다" : "b가 a보다 작다"
+	
+- quick sort를 간단하기 적용하기
+	#include <algorithm>
+	sort (arr명, arr명+길이) 사용시
+	arr[0] ~ arr[길이]인 배열이 자동으로 정렬된다.
     
   
   
